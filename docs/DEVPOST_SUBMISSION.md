@@ -32,7 +32,9 @@ OpenCV 5, AWS Graviton3, COOL (Cloud-Optimized OpenCV Library), Amazon SES, Amaz
 ### 5. Links
 - **GitHub Repository**: `https://github.com/anshika-verse/CivicSentinel`
 - **Video Walkthrough (<= 5 min)**: `[Insert YouTube / Vimeo Unlisted Link Here]`
-- **Live Screen-Share / Demo Endpoint**: `http://127.0.0.1:8000/` (Local Single-Port Deployment) / `[Insert Hosted AWS URL if deployed]`
+- **Live Working Web Endpoint**: `https://dive-oct-periodically-polyester.trycloudflare.com/`
+- **Interactive Swagger API Docs**: `https://dive-oct-periodically-polyester.trycloudflare.com/docs`
+- **Diagnostics**: `https://dive-oct-periodically-polyester.trycloudflare.com/health`
 
 ---
 
