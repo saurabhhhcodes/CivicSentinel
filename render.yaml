@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: civicsentinel
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    region: oregon
+    envVars:
+      - key: PROCESSING_MODE
+        value: LOCAL
+      - key: PORT
+        value: 8000
